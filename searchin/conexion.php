@@ -3,7 +3,7 @@
     class Conectar{
         private $servidor = "localhost";
         private $usuario = "root";
-        private $bd = "newsfinder";
+        private $bd = "searchin";
         private $password = "Aa123456";
 
         public function conexion(){
